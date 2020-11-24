@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS94773
   title: རྨ་ལྷོ་རྫོང་གི་རིག་གནས་ལོ་རྒྱུས་དཔྱད་ཡིག་༔་དེབ ༡.
-  volume: ''
+  volume:
+    f460d785e452499197e31b74fabecc22:
+      image_group_id: I00KG08133
+      title: 'Volume 1 of rma lho rdzong gi rig gnas lo rgyus dpyad yig : deb 1.'
+      volume_number: 1
+      total_pages: 149
   author: ''
+ebook_metadata:
+  title: རྨ་ལྷོ་རྫོང་གི་རིག་གནས་ལོ་རྒྱུས་དཔྱད་ཡིག་༔་དེབ ༡.
+  author: ''
+  sku: P008117
+  cover: cover.jpg
+  layers:
+  - pagination
